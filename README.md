@@ -1,2 +1,2 @@
-# Web-design-class
-My work with Web Design
+# Web_design
+web design class with gwak
